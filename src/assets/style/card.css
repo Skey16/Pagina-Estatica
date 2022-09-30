@@ -1,0 +1,48 @@
+
+.personaje{
+    width: auto;
+    padding: 0 50px 0 40px;
+    color: white;
+text-align: left;
+background-color: black;
+font-family: 'Imprint MT Shadow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+ 
+.personaje img{
+    width: 100%;
+}
+ 
+.personaje h2{
+    height: 30px;
+    color: white;
+background-color: black;
+font-family: 'Imprint MT Shadow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+}
+.personaje2 h2{
+    height: 30px;
+    color: white;
+background-color: black;
+font-family: 'Imprint MT Shadow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+}
+.personaje3 h2{
+    height: 30px;
+    color: white;
+background-color: black;
+font-family: 'Imprint MT Shadow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+}
